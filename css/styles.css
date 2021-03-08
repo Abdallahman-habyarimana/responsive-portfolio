@@ -419,7 +419,7 @@ img{
 }
 
 .portfolio__container .overlay .details {
-    color: var(--color-yellow);
+    color: var(--color-white);
     position: absolute;
     top: 50%;
     left:50%;
